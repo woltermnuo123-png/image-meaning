@@ -1,2 +1,0 @@
-# image-meaning
-IMAGE
